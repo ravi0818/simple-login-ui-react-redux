@@ -51,7 +51,7 @@ class HomePage extends React.Component {
           <Link to="/login">Logout</Link>
         </p>
         <p>
-          <Link to="/data">Get data</Link>
+          <Link to="/data">Get audit data</Link>
         </p>
       </div>
     );
